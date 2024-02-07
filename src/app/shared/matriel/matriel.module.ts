@@ -1,3 +1,5 @@
+//used this file to share angular matriel once in shared module to avoid duplication in imports
+
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MatButtonModule } from '@angular/material/button';
